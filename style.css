@@ -2,6 +2,11 @@ html {
 	background-color: orange;
 }
 
+table, td, th {
+	border: 2px solid darkgray;
+	border-collapse: collapse;
+}
+
 div.sidebar {
 	font-family: verdana;
 	background-color: lightblue;
