@@ -1,0 +1,20 @@
+html {
+	background-color: orange;
+}
+
+div.sidebar {
+	font-family: verdana;
+	background-color: lightblue;
+	border: 3px solid darkgray;
+	position: fixed;
+	width: 200px;
+	height: 100%;
+}
+
+div.page-content {
+	font-family: calibri;
+	background-color: orange;
+	padding-left: 10px;
+	border-top: 3px solid darkgray;
+	margin-left: 200px;
+}
